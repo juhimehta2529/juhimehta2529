@@ -6,7 +6,7 @@
 
 ## 🎓 Education
 - **B.Tech in Computer Science & Engineering**  
-  Nirma University (2022-2026) | CGPA: 8.99/10 (Till Sem 5)  
+  Nirma University (2022-2026) | CGPA: 9.02/10 (Till Sem 6)  
 - **Class 12 (PCM)** - 93% | School Rank 1  
 - **Class 10** - 90.83% | School Rank 1  
 
